@@ -5,3 +5,4 @@ zhangsan add new info
 local add info
 bbby
 hello world 1234444
+last local add
