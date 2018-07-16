@@ -1,6 +1,10 @@
 111111111
 server add one111
+local add my 1111
 2222
 server add two2222
+local add two
+ffff
 3333
 server add threee
+local add three
